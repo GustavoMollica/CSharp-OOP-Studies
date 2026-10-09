@@ -40,7 +40,7 @@ Each folder represents a course section, containing the practical exercises from
 ## How to run any project
 
 ```bash
-cd <SectionFolder>/<ProjectName>
+cd <SectionFolder>/<ProjectName>/<ProjectName>
 dotnet run
 ```
 

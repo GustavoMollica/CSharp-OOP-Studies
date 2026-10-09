@@ -40,7 +40,7 @@ Cada pasta representa uma seção do curso, contendo os exercícios práticos da
 ## Como executar qualquer projeto
 
 ```bash
-cd <PastaDaSeção>/<NomeDoProjeto>
+cd <PastaDaSeção>/<NomeDoProjeto>/<NomeDoProjeto>
 dotnet run
 ```
 
