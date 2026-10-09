@@ -1,4 +1,4 @@
-🇺🇸 [English](./README.md) | 🇧🇷 [Português](./README.pt-br.md)
+🇺🇸 English | 🇧🇷 [Português](README.pt-br.md)
 
 # CSharp-OOP-Studies
 
