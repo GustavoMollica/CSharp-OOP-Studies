@@ -25,6 +25,13 @@ Each folder represents a course section, containing the practical exercises from
 | [GradeManagement](./Section04-Classes-Attributes-Methods/GradeManagement) | Validation encapsulation, error-returning methods |
 | [CurrencyConverter](./Section04-Classes-Attributes-Methods/CurrencyConverter) | Static utility class, calculation composition |
 
+### [Section05 - Constructors, Overloading, This, Properties](./Section05-Constructors-Overloading-This-Properties)
+
+| Exercise | Main concepts |
+|---|---|
+| [RPGCharacter](./Section05-Constructors-Overloading-This-Properties/RPGCharacter) | Constructors, properties with `private set`, calculated properties, encapsulation |
+| [BankAccountWithFee](./Section05-Constructors-Overloading-This-Properties/BankAccountWithFee) | Constructor overloading, `this` constructor chaining, domain constants, validation inside the domain class |
+
 ## Technologies
 
 - C# / .NET 10
@@ -33,6 +40,6 @@ Each folder represents a course section, containing the practical exercises from
 ## How to run any project
 
 ```bash
-cd Section04-Classes-Attributes-Methods/<ProjectName>
+cd <SectionFolder>/<ProjectName>
 dotnet run
 ```
