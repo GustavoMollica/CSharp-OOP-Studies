@@ -46,4 +46,5 @@ dotnet run
 
 ## Observações
 
-Exercícios anteriores são revisitados e refatorados conforme novos conceitos são aprendidos nas seções seguintes (ex.: aplicar construtores, propriedades, enums ou exceções em um exercício da Seção 4). Por isso, um projeto pode não refletir as práticas mais recentes do curso no momento em que foi escrito; o histórico de commits mostra como cada um evoluiu.
+- **Refatoração:** exercícios anteriores são revisitados e refatorados conforme novos conceitos são aprendidos nas seções seguintes (ex.: aplicar construtores, propriedades, enums ou exceções em um exercício da Seção 4). Por isso, um projeto pode não refletir as práticas mais recentes do curso no momento em que foi escrito; o histórico de commits mostra como cada um evoluiu.
+- **Exercícios externos:** além dos exercícios do curso, alguns projetos vêm de fora dele. Foram escolhidos para praticar os conceitos daquela seção naquele momento.

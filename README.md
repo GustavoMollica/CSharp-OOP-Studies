@@ -46,4 +46,5 @@ dotnet run
 
 ## Notes
 
-Earlier exercises are revisited and refactored as new concepts are learned in later sections (e.g. applying constructors, properties, enums, or exceptions to a Section 4 exercise). Because of that, a project may not reflect the most recent practices of the course at the time it was first written; the commit history shows how each one evolved.
+- **Refactoring:** earlier exercises are revisited and refactored as new concepts are learned in later sections (e.g. applying constructors, properties, enums, or exceptions to a Section 4 exercise). Because of that, a project may not reflect the most recent practices of the course at the time it was first written; the commit history shows how each one evolved.
+- **External exercises:** besides the course exercises, some projects come from outside the course. They were chosen to practice the concepts of that section at that moment.
