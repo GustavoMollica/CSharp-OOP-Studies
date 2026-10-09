@@ -43,3 +43,7 @@ Cada pasta representa uma seção do curso, contendo os exercícios práticos da
 cd <PastaDaSeção>/<NomeDoProjeto>
 dotnet run
 ```
+
+## Observações
+
+Exercícios anteriores são revisitados e refatorados conforme novos conceitos são aprendidos nas seções seguintes (ex.: aplicar construtores, propriedades, enums ou exceções em um exercício da Seção 4). Por isso, um projeto pode não refletir as práticas mais recentes do curso no momento em que foi escrito; o histórico de commits mostra como cada um evoluiu.

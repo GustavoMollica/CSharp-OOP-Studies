@@ -43,3 +43,7 @@ Each folder represents a course section, containing the practical exercises from
 cd <SectionFolder>/<ProjectName>
 dotnet run
 ```
+
+## Notes
+
+Earlier exercises are revisited and refactored as new concepts are learned in later sections (e.g. applying constructors, properties, enums, or exceptions to a Section 4 exercise). Because of that, a project may not reflect the most recent practices of the course at the time it was first written; the commit history shows how each one evolved.
