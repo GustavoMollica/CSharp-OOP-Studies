@@ -32,6 +32,12 @@ Each folder represents a course section, containing the practical exercises from
 | [RPGCharacter](./Section05-Constructors-Overloading-This-Properties/RPGCharacter) | Constructors, properties with `private set`, calculated properties, encapsulation |
 | [BankAccountWithFee](./Section05-Constructors-Overloading-This-Properties/BankAccountWithFee) | Constructor overloading, `this` constructor chaining, domain constants, validation inside the domain class |
 
+### [Section06 - Memory Behavior, Arrays, Lists](./Section06-Memory-Behavior-Arrays-Lists)
+
+| Exercise | Main concepts |
+|---|---|
+| [DormRoomRental](./Section06-Memory-Behavior-Arrays-Lists/DormRoomRental) | Arrays, fixed-size collections, room number to index conversion, array encapsulated inside a domain class |
+
 ## Technologies
 
 - C# / .NET 10

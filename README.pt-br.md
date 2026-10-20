@@ -32,6 +32,12 @@ Cada pasta representa uma seção do curso, contendo os exercícios práticos da
 | [RPGCharacter](./Section05-Constructors-Overloading-This-Properties/RPGCharacter) | Construtores, propriedades com `private set`, propriedades calculadas, encapsulamento |
 | [BankAccountWithFee](./Section05-Constructors-Overloading-This-Properties/BankAccountWithFee) | Sobrecarga de construtores, encadeamento de construtores com `this`, constantes de domínio, validação dentro da classe de domínio |
 
+### [Section06 - Comportamento de Memória, Arrays, Listas](./Section06-Memory-Behavior-Arrays-Lists)
+
+| Exercício | Principais conceitos |
+|---|---|
+| [DormRoomRental](./Section06-Memory-Behavior-Arrays-Lists/DormRoomRental) | Arrays, coleções de tamanho fixo, conversão de número do quarto para índice, array encapsulado dentro da classe de domínio |
+
 ## Tecnologias
 
 - C# / .NET 10
