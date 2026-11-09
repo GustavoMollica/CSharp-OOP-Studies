@@ -38,6 +38,10 @@ Each folder represents a course section, containing the practical exercises from
 |---|---|
 | [DormRoomRental](./Section06-Memory-Behavior-Arrays-Lists/DormRoomRental) | Arrays, fixed-size collections, room number to index conversion, array encapsulated inside a domain class |
 
+### Section07 - Special Topics in C# (Part 1)
+
+This section had no practical exercises. It covered language features and types used in the following sections: type inference with `var`, `switch-case`, the ternary conditional operator, string functions, `DateTime` and `TimeSpan` (properties and operations), and `DateTimeKind` with the ISO 8601 standard.
+
 ### [Section08 - Enumerations, Composition](./Section08-Enumerations-Composition)
 
 | Exercise | Main concepts |

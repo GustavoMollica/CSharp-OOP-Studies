@@ -38,6 +38,10 @@ Cada pasta representa uma seção do curso, contendo os exercícios práticos da
 |---|---|
 | [DormRoomRental](./Section06-Memory-Behavior-Arrays-Lists/DormRoomRental) | Arrays, coleções de tamanho fixo, conversão de número do quarto para índice, array encapsulado dentro da classe de domínio |
 
+### Section07 - Tópicos Especiais em C# (Parte 1)
+
+Esta seção não teve exercícios práticos. Ela abordou recursos da linguagem e tipos usados nas seções seguintes: inferência de tipos com `var`, `switch-case`, operador condicional ternário, funções para string, `DateTime` e `TimeSpan` (propriedades e operações), e `DateTimeKind` com o padrão ISO 8601.
+
 ### [Section08 - Enumerações, Composição](./Section08-Enumerations-Composition)
 
 | Exercício | Principais conceitos |
