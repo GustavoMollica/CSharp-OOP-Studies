@@ -38,6 +38,12 @@ Each folder represents a course section, containing the practical exercises from
 |---|---|
 | [DormRoomRental](./Section06-Memory-Behavior-Arrays-Lists/DormRoomRental) | Arrays, fixed-size collections, room number to index conversion, array encapsulated inside a domain class |
 
+### [Section08 - Enumerations, Composition](./Section08-Enumerations-Composition)
+
+| Exercise | Main concepts |
+|---|---|
+| [WorkerContracts](./Section08-Enumerations-Composition/WorkerContracts) | Enums, composition ("has-a"), read-only collection exposure, responsibility delegation, culture-independent input parsing |
+
 ## Technologies
 
 - C# / .NET 10

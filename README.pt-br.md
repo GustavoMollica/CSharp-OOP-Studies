@@ -38,6 +38,12 @@ Cada pasta representa uma seção do curso, contendo os exercícios práticos da
 |---|---|
 | [DormRoomRental](./Section06-Memory-Behavior-Arrays-Lists/DormRoomRental) | Arrays, coleções de tamanho fixo, conversão de número do quarto para índice, array encapsulado dentro da classe de domínio |
 
+### [Section08 - Enumerações, Composição](./Section08-Enumerations-Composition)
+
+| Exercício | Principais conceitos |
+|---|---|
+| [WorkerContracts](./Section08-Enumerations-Composition/WorkerContracts) | Enums, composição ("tem-um"), exposição de coleção somente leitura, delegação de responsabilidade, conversão de entrada independente da cultura da máquina |
+
 ## Tecnologias
 
 - C# / .NET 10
