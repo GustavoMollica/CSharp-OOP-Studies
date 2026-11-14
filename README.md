@@ -47,6 +47,7 @@ This section had no practical exercises. It covered language features and types 
 | Exercise | Main concepts |
 |---|---|
 | [WorkerContracts](./Section08-Enumerations-Composition/WorkerContracts) | Enums, composition ("has-a"), read-only collection exposure, responsibility delegation, culture-independent input parsing |
+| [BlogPosts](./Section08-Enumerations-Composition/BlogPosts) | Composition with a list of objects, `StringBuilder`, value generated once in an auto-property initializer, fixed date formatting |
 
 ## Technologies
 

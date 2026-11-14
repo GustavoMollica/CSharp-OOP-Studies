@@ -47,6 +47,7 @@ Esta seção não teve exercícios práticos. Ela abordou recursos da linguagem 
 | Exercício | Principais conceitos |
 |---|---|
 | [WorkerContracts](./Section08-Enumerations-Composition/WorkerContracts) | Enums, composição ("tem-um"), exposição de coleção somente leitura, delegação de responsabilidade, conversão de entrada independente da cultura da máquina |
+| [BlogPosts](./Section08-Enumerations-Composition/BlogPosts) | Composição com lista de objetos, `StringBuilder`, valor gerado uma única vez em inicializador de auto-property, formatação de data fixa |
 
 ## Tecnologias
 
