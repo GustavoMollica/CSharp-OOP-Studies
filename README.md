@@ -48,6 +48,7 @@ This section had no practical exercises. It covered language features and types 
 |---|---|
 | [WorkerContracts](./Section08-Enumerations-Composition/WorkerContracts) | Enums, composition ("has-a"), read-only collection exposure, responsibility delegation, culture-independent input parsing |
 | [BlogPosts](./Section08-Enumerations-Composition/BlogPosts) | Composition with a list of objects, `StringBuilder`, value generated once in an auto-property initializer, fixed date formatting |
+| [OrderManagement](./Section08-Enumerations-Composition/OrderManagement) | Enums parsed by name only, multi-level composition (order, items, product, client), price snapshot per item, totals delegated to items, `StringBuilder` summary |
 
 ## Technologies
 

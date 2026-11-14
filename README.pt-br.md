@@ -48,6 +48,7 @@ Esta seção não teve exercícios práticos. Ela abordou recursos da linguagem 
 |---|---|
 | [WorkerContracts](./Section08-Enumerations-Composition/WorkerContracts) | Enums, composição ("tem-um"), exposição de coleção somente leitura, delegação de responsabilidade, conversão de entrada independente da cultura da máquina |
 | [BlogPosts](./Section08-Enumerations-Composition/BlogPosts) | Composição com lista de objetos, `StringBuilder`, valor gerado uma única vez em inicializador de auto-property, formatação de data fixa |
+| [OrderManagement](./Section08-Enumerations-Composition/OrderManagement) | Enum aceito apenas pelo nome, composição em vários níveis (pedido, itens, produto, cliente), preço do item guardado no momento da compra, totais delegados aos itens, resumo com `StringBuilder` |
 
 ## Tecnologias
 
